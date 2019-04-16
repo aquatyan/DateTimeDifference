@@ -1,0 +1,9 @@
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\bin\Debug\DateTimeDifference.exe.config
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\bin\Debug\DateTimeDifference.exe
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\bin\Debug\DateTimeDifference.pdb
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\obj\Debug\DateTimeDifference.MainForm.resources
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\obj\Debug\DateTimeDifference.Properties.Resources.resources
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\obj\Debug\DateTimeDifference.csproj.GenerateResource.Cache
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\obj\Debug\DateTimeDifference.csproj.CoreCompileInputs.cache
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\obj\Debug\DateTimeDifference.exe
+C:\Users\Aqua\source\repos\DateTimeDifference\DateTimeDifference\obj\Debug\DateTimeDifference.pdb
